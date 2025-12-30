@@ -1,0 +1,105 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* Afsnit – not merely “section,” but a sermonic or literary division.
+* Skitser – here “sketches” in the homiletical/biblical sense, not casual outlines.
+* Forestilling – sense of “impression” or “conception,” not imagination.
+* Vidnesbyrd – theological term: God’s testimony/revelation.
+* Forkynder – preacher as divinely appointed herald.
+* Lønneligheders – archaic plural suggesting depths, hidden riches, mysteries.
+* Kjærlighed – agape-like, covenantal love, not sentiment.
+
+Syntactic Hazards:
+
+* Long periodic sentences with semicolons and em dashes that must not be broken down.
+* Heavy use of metaphor chains (wind, garden, winter, fire, waters).
+* Sermonic escalation through parallel clauses.
+
+Theological Hazards:
+
+* Matthew 24:12 citation must remain recognizable.
+* Concepts of self-love as unrighteousness.
+* Love “strong as death” (Song of Songs 8:6) must retain biblical gravity.
+* Church described as God’s garden—ecclesiological imagery.
+
+Voice Hazards:
+
+* Earnest exhortational tone addressing conscience.
+* Poetic elevation must not be flattened into academic prose.
+* Prophetic warning mixed with pastoral consolation.
+
+STEP 2: IDIOM ANALYSIS
+
+* “Kjærligheden bliver kold” – biblical idiom for spiritual decay (Matt. 24:12).
+* “Guds Have” – biblical image for the Church (Isaiah imagery).
+* “Søndenvind” – warm south wind as life-giving Spirit-like influence (cf. Song 4:16).
+* “Vintersno” – image of persecution, coldness, lovelessness.
+* “Kjærligheden stærk som Døden” – direct allusion to Song of Songs 8:6.
+* “Mange Vande” – Song of Songs 8:7; trials and persecutions.
+  KJV phrasing offers near-direct equivalents for these expressions.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening biblical thesis: love growing cold in times of multiplying iniquity.
+* Observation of contemporary fulfillment in society and church.
+* Lament over lovelessness even among professing Christians.
+* Metaphorical contrast: warm garden wind vs. cutting winter snow.
+* Rhetorical turn: intentional contemplation of the purest image of friendship.
+* Doctrinal affirmation: love’s invincibility.
+* Climactic crescendo of paradoxes (cold strengthens heat, struggle breeds victory).
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Matthew 24:12 – love growing cold.
+* John 15:13 – laying down life for friends (implicit).
+* Song of Songs 8:6–7 – love strong as death, many waters cannot quench it.
+* Song of Songs 4:16 – south wind imagery (implicit).
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+Warnings against spiritual coldness must remain sharp.
+No sentimental softening of love’s militant, persevering character.
+Maintain prophetic urgency alongside poetic beauty.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “skal” – rendered as “shall,” not weakened.
+* Assertions about love’s power kept absolute, not probabilistic.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Kjærlighed – consistently “love.”
+* Guds Kirke – “the Church of God.”
+* Trængsel – “tribulation” or “distress,” not generic difficulty.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Garden, wind, winter, fire, waters all preserved as images.
+* No explanatory paraphrasing inserted.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Severity in diagnosis.
+* Consolation and warmth in contemplation of love.
+* Rising triumph toward the conclusion.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long sentences preserved.
+* Parallel clauses mirrored.
+* Suitable for oral proclamation.
+
+STEP 11: ACADEMIC TRANSLATION (FINAL)
+
+\section{First Section}
+
+[The three following biblical sketches will give, though doubtless only a faint impression, of why Professor Gederdrup’s lectures on the Old Testament so powerfully captivated his hearers. The noble, poetic language, the thoroughly biblical tone, the holy reverence for the Lord’s testimony as it came to His people through His preacher, were such prominent characteristics of this branch of his teaching that it seized the listeners in a peculiar manner and held them fast. When, with his clear gaze sharpened by the Spirit of God, he opened the Scriptures for his students and looked into the hidden depths of God’s counsel, many a heart was made to burn. — Ed.]
+
+\subsection{David and Jonathan}
+
+[Source: Svartal-Skrift for the Norwegian Lutheran Church in America. Edited by Prof. Gederdrup and Oftedal. Third Year. 1877. Pages 44–48. — Ed.]
+
+“And because iniquity shall abound, the love of many shall wax cold.” The time seems to have come in which this word is being fulfilled. At a deep and fundamental level there stirs the unrighteousness of self-love, and it appears as though petty vanity and rending envy have become dominant, not only in the politics of this world, but also among those who call themselves by His name, who went into death for His friends. Even in the Church of God it seems that the gentle south wind does not blow, that wind which causes the flowers to give forth their fragrance in God’s garden, but rather a cold, cutting winter snow, which causes the fairest plants to wither and the noblest shoots to die.
+
+Therefore we will bring forth the loveliest image of the love of friends that we can find, and by it we will warm our own hearts. For though thou shouldest take the coldest thing thou knowest—though thou shouldest take death’s cold mist\footnote{The original text uses “Dødens kolde Taarning.” While Taarning resembles the word for “tower,” in this 19th-century context it functions as an archaic variant of taage/taaning (mist/fog). "Mist" better captures the intended metaphor of a chilling, numbing atmosphere that stiffens the heart. — Present Ed}, wherein human hearts grow stiff and the blood congeals—yet love is strong as death. And where the fire of love burns, there it is of no avail that the wind blows and the waters stream over it; for every cold gust shall only cause the flame to blaze the more freshly upon the hearth, and the many waters cannot quench love. In tribulation it grows, in darkness it shines, in cold it is the warmer; the greater the conflict, the greater the courage; the more hindrances, the more glorious the outcome.

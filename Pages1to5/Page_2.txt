@@ -1,0 +1,108 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "deilig af Line" — older idiom meaning comely of form/proportion, not sensuous.
+* "mælende Faar" — bleating sheep; pastoral imagery.
+* "Forjættelse" — promise in the biblical sense (divine covenantal promise).
+* "forstødt" — rejected/cast off by God, strong theological weight.
+* "Vederkvægelse" — refreshment/quickening of soul, not mere comfort.
+* "Liv" — vitality, restoration of life-force.
+* "Smaafæet" — the lesser flock; diminutive nuance.
+
+Syntactic Hazards:
+
+* Long, flowing sentences with semicolon logic and narrative accumulation.
+* Parataxis joined by commas and dashes, mimicking sermonic cadence.
+* Embedded biblical quotations that must remain intact.
+
+Theological Hazards:
+
+* Election and rejection by God (David vs. Saul).
+* Divine promise tied to land and tribe (Judah).
+* The Spirit of the Lord coming upon David.
+* The evil spirit tormenting Saul under divine judgment.
+
+Voice Hazards:
+
+* Pastoral, exalted, reverent tone.
+* Narrative meant for proclamation, not modern storytelling.
+* Risk of flattening solemn biblical rhythm.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Herrens Pris" — praise of the Lord; echoes Psalms.
+* "Mennesket ser paa Øinene, men Gud ser paa Hjertet" — direct echo of 1 Samuel 16:7 (KJV phrasing essential).
+* "dristig forlod sig paa ham" — bold trust, faith-filled reliance.
+* "fra den Dag" — covenantal turning point formula.
+
+Literal translation risks:
+
+* Over-literal rendering of idioms could sound secular or weak.
+* KJV diction provides natural equivalents for biblical phrases.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening portrait of David: beauty, youth, pastoral formation.
+* Formation of faith through solitude, song, and ancestral promise.
+* Theological inference: promise gives courage against Goliath.
+* Divine rejection of Saul and election of David.
+* Public anointing contrasted with hidden shepherd.
+* Spiritual reversal: David’s spirit heals Saul, yet Saul is rejected.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* 1 Samuel 16 (anointing of David).
+* Genesis patriarchal sojourns (Abraham, Isaac, Jacob).
+* Promise of the land (Genesis 12, 15, 17).
+* Spirit of the Lord coming mightily (Judges / Samuel language).
+* Saul’s tormenting spirit (1 Samuel 16:14–23).
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain solemn narrative elevation.
+* Do not soften divine rejection or spiritual conflict.
+* Preserve confidence rooted in promise.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "skulde gives" — must/should be given (divine necessity).
+* "ikke var at frygte" — not to be feared (categorical, not tentative).
+* "vilde give" — God would surely grant victory.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Forjættelse → Promise
+* Herrens Aand → Spirit of the Lord
+* forstødt → rejected / cast off
+* udvalgt → chosen / elected
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Pastoral imagery (sheep, valleys, streams) retained.
+* Music as spiritual means of grace.
+* Heart vs. outward appearance preserved.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Gentle pastoral beginning.
+* Rising solemnity at divine judgment.
+* Quiet tragedy in Saul’s condition.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long sentences preserved where possible.
+* Biblical quotation kept in elevated register.
+* Rhythmic balance maintained.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE‑PRESERVING)
+
+A young man, ruddy of countenance, comely of form and fair to behold, was David, the son of Jesse, from Bethlehem. Scarcely more than a youth among bleating sheep upon the pastures of Judah; over its hills and through its valleys he led his flock; his playing and his song sounded over the green meadows and by the murmuring brooks. His harp he had learned to tune by the rushing of the rivers and in the stillness of the forests, and the praise of the Lord he had learned to sing while he walked alone upon the field where Abraham, Isaac, and Jacob had pitched their tents with their flocks, in faith and expectation of the Lord’s promise, that the land should be given unto them and to their children for ever.
+
+The glorious inheritance of promise which had been given to the tribe of Judah had become the shepherd boy’s inheritance, and by it he had been assured that Goliath of the Philistines was not to be feared by the people of God, but that the Lord would give His people victory over all their enemies, if they boldly trusted in Him.
+
+Then came a day when the prophet Samuel went down, by the command of the Lord, to anoint one of the sons of Jesse to be king over His people; for Saul was rejected from before the face of the Lord. And Jesse brought forth his sons, one by one, before the prophet of the Lord. And the prophet said, when he saw Eliab: “Surely the Lord’s anointed is before Him.” But the Lord said: “Look not on his countenance, nor on the height of his stature; for I have rejected him: for man looketh on the outward appearance, but the Lord looketh on the heart.”
+
+And Jesse brought forth his seven sons, but none of them was chosen of God. Then David was lacking; he who kept the little flock had yet to come. And the Lord said unto Samuel: “Arise, anoint him; for this is he.” And Samuel anointed him, and the Spirit of the Lord came upon David from that day.
+
+But over Saul there was an evil spirit; and David was brought to Saul, and his pleasant playing was a refreshment and a restoring of life for the sick and torn heart of the man, and the evil spirit departed from him at David’s playing. But Saul was rejected of the Lord, and David was chosen in his stead.
