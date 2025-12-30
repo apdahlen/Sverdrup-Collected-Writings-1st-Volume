@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  29 DEC 2025 23:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  30 DEC 2025 16:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -471,10 +471,10 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 7.
  [5] [6]
 [7] [8]) [9] (Pages1to5/Pages1to5.tex
-<OpenImage.png, id=70, 929.72343pt x 226.59656pt>
-File: OpenImage.png Graphic file (type png)
-<use OpenImage.png>
-Package pdftex.def Info: OpenImage.png  used on input line 3.
+<OpenImage1.png, id=77, 929.72343pt x 226.59656pt>
+File: OpenImage1.png Graphic file (type png)
+<use OpenImage1.png>
+Package pdftex.def Info: OpenImage1.png  used on input line 3.
 (pdftex.def)             Requested size: 422.77664pt x 103.03935pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
@@ -482,20 +482,39 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.36 
-      [1 <./OpenImage.png>] [2] [3]) [4] (WORKFLOW.aux)
+      [1 <./OpenImage1.png>] [2] [3]) (Pages6to14/Pages6to14.tex [4]
+<OpenImage2.png, id=100, 1593.70406pt x 365.86688pt>
+File: OpenImage2.png Graphic file (type png)
+<use OpenImage2.png>
+Package pdftex.def Info: OpenImage2.png  used on input line 3.
+(pdftex.def)             Requested size: 422.77664pt x 97.05475pt.
+ [5 <./OpenImage2.png>]
+Overfull \hbox (2.17526pt too wide) in paragraph at lines 31--32
+[]\T1/lmr/m/n/12 (-20) There are great men in Is-rael, as in ev-ery other peo-p
+le; there are chief-tains and standard[]bearers;
+ []
+
+[6] [7] [8] [9] [10]) [11] (WORKFLOW.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
-(rerunfilecheck)             Checksum: B96E0D6A86746D36F511CD0DDB3B94E3;264.
+
+
+Package rerunfilecheck Warning: File `WORKFLOW.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `WORKFLOW.out':
+(rerunfilecheck)             Before: 4F98B3AE29B9CFDDF1C98D47D028A8A6;417
+(rerunfilecheck)             After:  3D60468932634A58DE0D361B8C7FB72C;662.
  ) 
 Here is how much of TeX's memory you used:
- 11503 strings out of 474486
- 185943 string characters out of 5743754
+ 11534 strings out of 474486
+ 186533 string characters out of 5743754
  1934542 words of memory out of 5000000
- 33437 multiletter control sequences out of 15000+600000
- 624598 words of font info for 152 fonts, out of 8000000 for 9000
+ 33448 multiletter control sequences out of 15000+600000
+ 624871 words of font info for 155 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,8n,67p,1535b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
@@ -505,9 +524,9 @@ b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
 /Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (14 pages, 389587 bytes).
+Output written on WORKFLOW.pdf (21 pages, 886441 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
- 37398 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 171 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 37411 words of extra memory for PDF output out of 42996 (max. 10000000)
 
