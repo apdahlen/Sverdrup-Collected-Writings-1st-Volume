@@ -4,3 +4,6 @@
 \contentsline {subsubsection}{\numberline {1.2.1}Israel in the Time of the Judges}{8}{subsubsection.1.2.1}%
 \contentsline {subsubsection}{\numberline {1.2.2}Hannah’s Song}{13}{subsubsection.1.2.2}%
 \contentsline {subsubsection}{\numberline {1.2.3}The Judgment upon the House of Eli}{17}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}The Deliverance from the Philistines}{22}{subsubsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.5}The Kingdom in Israel}{25}{subsubsection.1.2.5}%
+\contentsline {subsubsection}{\numberline {1.2.6}Saul and David}{27}{subsubsection.1.2.6}%
