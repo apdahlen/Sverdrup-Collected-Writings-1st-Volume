@@ -1,4 +1,4 @@
 \contentsline {section}{\numberline {1}First Section}{1}{section.1}%
 \contentsline {subsection}{\numberline {1.1}David and Jonathan}{1}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}The Prophet Samuel}{5}{subsection.1.2}%
-\contentsline {subsubsection}{\numberline {1.2.1}Israel in the Time of the Judges}{7}{subsubsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2}The Prophet Samuel}{6}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Israel in the Time of the Judges}{8}{subsubsection.1.2.1}%
