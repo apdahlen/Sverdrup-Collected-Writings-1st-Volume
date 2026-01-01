@@ -1,0 +1,98 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Byrd" (birth, lineage) with priestly connotations.
+* "Vækkelsesprofet" (revival/awakening prophet) with pietistic force.
+* "Egenretfærdigheden" (self-righteousness) as a technical Lutheran term.
+* "Frafald" (apostasy) carrying covenantal weight.
+* "Sangebud" (hymns) and "Love" (laws) as cultic/ceremonial means.
+* "gjennøde" (to pierce/penetrate thoroughly).
+
+Syntactic Hazards:
+
+* Long periodic sentences with semicolons and embedded clauses.
+* Sermonic contrasts (outer reform vs. inward repentance).
+* Parenthetical biblical references integrated into flow.
+
+Theological Hazards:
+
+* Repentance vs. external reform.
+* Temple as idol when trusted apart from contrite hearts.
+* Prophetic calling extending beyond Israel to the nations.
+
+Voice Hazards:
+
+* Earnest, admonitory Lutheran tone.
+* Grave pastoral warning without sentimentality.
+* Historical narration infused with moral urgency.
+
+STEP 2: IDIOM ANALYSIS
+
+* "at høre Guds Ord" – not mere hearing but being catechetically formed.
+* "efter Bogstaven" – knowing God only outwardly or formally.
+* "sønderknustes af Guds Ord" – echo of Ps. 51; contrition.
+* "talte til døve Øren" – Isaianic/Jeremian image of obstinate unbelief.
+* "saa var Templet dem kun en Afgud" – polemic against sacramentalism without faith.
+  KJV-style equivalents are natural for these.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Biographical introduction (origin, priestly upbringing).
+* Historical observation (Manasseh vs. Josiah).
+* Prophetic call as decisive turning point.
+* Contrast between external reform and inward awakening.
+* Jeremias’ unique burden as conscience-preacher.
+* Transition to theological reflection on the calling.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Jeremiah 1:5; 11:21 explicitly cited.
+* Psalmic imagery of broken hearts (Ps. 51).
+* Deuteronomic covenant theology (apostasy, law, prophets).
+* Prophetic motif of nations (cf. Isa. 49).
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain warnings without mitigation.
+* Preserve sorrowful gravity regarding Judah’s doom.
+* Keep sharp distinction between outward change and inward repentance.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "skulde" rendered as strong vocation ("was to," "must").
+* Conditional warnings retain inevitability.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Guds Ord – Word of God
+* Hjerte – heart
+* Frafald – apostasy
+* Egenretfærdighed – self-righteousness
+* Reformation – reformation
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Hearts pierced/broken by the Word.
+* Temple as idol.
+* Deaf ears.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Calm historical narrative → urgent prophetic warning.
+* Sober description → lamenting foresight of ruin.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long sentences retained where rhetorical weight requires.
+* Semicolons preserved to mark sermonic turns.
+
+STEP 11: ACADEMIC TRANSLATION (FINAL)
+
+\subsubsection{The Prophet's Life}
+
+Jeremiah was born in the small village of Anathoth, which lies about four English miles northeast of Jerusalem, in the tribe of Benjamin. Being of priestly birth, he had from his youth onward abundant opportunity to hear the Word of God and, at least according to the letter, to learn to know God and His deeds in Israel, and to become familiar with the service of the Temple. He likewise had the best opportunity to observe both how the Temple of the LORD and His priests were despised and mocked under Manasseh, and how the priests, when Josiah began his reformation, sought to draw to themselves power and advantage from Josiah’s work, as a kind of compensation for what the idolatry of Manasseh had taken from them. Otherwise we know nothing of his life before he was called to be a prophet. This altogether decisive event in his life, which made him a man of affliction and suffering from the time when his countrymen in Anathoth sought to slay him (Jer. 11:21) until he sat weeping among the ruins of Jerusalem—this heavy calling of the LORD came to him in the thirteenth year of Josiah. The reformation which had begun in the twelfth year of Josiah, when the king himself had been awakened, had indeed also been a preparation for Jeremiah for his calling. From this time forth he was to become the true awakening prophet in Judah. For hymns and laws might well be able to foster outward conformity with the Law; but the Word of God alone could pierce the hearts.
+
+And while the king had the comparatively easy task of breaking down idols and restoring the Temple service in its purity, Jeremiah received the arduous and painful task of bearing witness before the people, the priests, and the princes that, unless their hearts were broken in pieces by the Word of God, the Temple was to them nothing but an idol, and self-righteousness nothing but a worse apostasy than any other. And all the heavier did the prophet’s labor become, because he spoke to deaf ears and daily saw a beloved people draw near to their destruction by trusting, in the midst of their ungodliness, in the great outward change which had taken place through Josiah’s reformation.
+
+There are two things in the calling of the prophet Jeremiah to which we draw attention. The first is that he is appointed as a prophet to the nations (Jer. 1:5). Nothing is more surprising than this. For to the Jews the Word of God had indeed been given; to them, according to God’s promise, the prophets were to be sent; and yet here Jeremiah is set as a prophet to the nations, a designation which includes both Jews and Gentiles without distinction.
