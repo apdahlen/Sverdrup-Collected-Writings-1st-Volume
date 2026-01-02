@@ -1,0 +1,92 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Byzantinismen" – not merely Eastern culture, but the fully developed form of state-church absolutism.
+* "Statskirkeform" – must retain the sense of an institutionalized, state-controlled church.
+* "Kirkefriheden / Frikirken" – denotes ecclesial independence from the state, not modern voluntarism.
+* "Kjætterne" – heretics in a doctrinal, not merely polemical, sense.
+* "Begunstigelse" – active favor or patronage, not passive tolerance.
+* "Enevolds-magt" – absolute, undivided authority; must not be softened.
+* "Overhøihed" – supremacy, primacy with real authority.
+
+Syntactic Hazards:
+
+* Long, layered sentences with causal chains and historical reflection.
+* Frequent use of contrastive pivots ("men", "tvertimod", "ialfald").
+* Abstract nouns carrying argumentative weight.
+
+Theological Hazards:
+
+* Distinction between Church serving the Emperor versus Emperor serving the Church.
+* Concept of the Church as the Kingdom of God versus a political empire.
+* Spiritual meaning of freedom versus political power.
+
+Voice Hazards:
+
+* Grave historical-theological tone.
+* Polemical clarity without rhetorical excess.
+* Critical distance combined with moral seriousness.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Guds Kald" – divine calling; carries providential and vocational weight.
+* "tjæne Kirken / Kirken skulde tjene ham" – inversion of divine order; echoes biblical lordship language.
+* "Rige" – deliberately ambiguous between political empire and spiritual kingdom.
+* "Trældom" – slavery/bondage; must retain moral and spiritual force.
+* "Forførsel" – temptation or seduction; strong moral-theological connotation.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Assertion of Constantine’s intention to impose a state-church model.
+* Explanation of his religious sincerity.
+* Failure of this project due to opposition and imperial division.
+* Rome’s historical position of ecclesial freedom.
+* Psychological and theological reaction of Rome to imperial displacement.
+* Emergence of papal-theocratic ambition modeled after Byzantium.
+* Logical conclusion: if power is sought, Roman episcopal supremacy follows.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Kingdom imagery (Church as a "Rige").
+* Lordship and service inversion (cf. Matthew 20:25–28).
+* Bondage versus freedom (cf. Galatians 5:1).
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Retain critical sharpness toward both imperial and ecclesiastical despotism.
+* Preserve sober, analytical severity without emotive exaggeration.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "skulde" – rendered as "should" or "was to," not weakened to "might."
+* "maatte" – rendered as "must" or "was required to."
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Church – consistently capitalized.
+* Kingdom – preserved where "Rige" bears theological weight.
+* Despotism / Despot – consistent political-theological usage.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Empire/Kingdom metaphor maintained throughout.
+* Seduction imagery preserved in "Forførsel."
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Contrast between freedom and power.
+* Contrast between Greek and Roman ecclesial development.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long sentences retained where argumentative momentum requires.
+* Semicolon logic preserved.
+
+STEP 11: ACADEMIC TRANSLATION (FINAL)
+
+It was beyond doubt Constantine’s intention that Byzantinism, or the most fully developed form of the state church, should now replace ecclesiastical freedom throughout his entire empire. He had not the remotest idea that this could be contrary to Christianity; on the contrary, it was his conviction that it was a divine calling laid upon him to act thus. Yet he did not succeed, and the favor shown by his sons to the heretics called forth a lively opposition. Nor can it surprise us that Rome and its bishop stood with zeal upon the side of this opposition. The division of Constantine’s empire led to divergent developments. Rome continued to possess a free Church, interrupted only for a brief period.
+
+Rome felt itself involuntarily set aside from the day when Constantine transferred the capital to Constantinople, and the Roman Christians for many reasons shared the dissatisfaction that ran through the world-city. But as it gradually became clear to them that it was not the Emperor who would serve the Church, but that the Church was to serve him, new thoughts seem also to have awakened—at least in the Roman bishop. For it was evident that the Church had become a kingdom, and yet at the same time a political ruler had become lord within that kingdom. The free Church understood that this was bondage. It envied the despotic power of the Greek Church, yet counted itself happy that it had no despot over it. The Christian Byzantine empire became the temptation of the free Church, in that it began to shape its conceptions of the Kingdom of God after this pattern, with only this difference, that not an emperor, but a bishop, ought to be the head of God’s kingdom.
+
+If, then, the free Church was to assume such a position—that, like the Greek Church, it should become an ecclesiastical despotism, an absolute ecclesiastical sovereignty, in which the decisive aim was to hold the world and the nations beneath itself—then it was at the same time a settled matter that the Roman bishop must be the ecclesiastical emperor in the realm. And there was no lack of plausible reasons for the free Church to strive after power over the people, and for the Roman bishop to assert his supremacy over the Church.
