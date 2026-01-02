@@ -1,0 +1,95 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Forskjæl" (difference) in older orthography; denotes substantial qualitative distinction, not minor variance.
+* "Opfatning" carries sense of comprehensive theological understanding or conception, not mere opinion.
+* "Vækkelse" implies revival with strong pietistic connotations.
+* "Lægfolk" refers to awakened non-clerical believers; not simply "laity" in a neutral sense.
+* "Fromhed" and "Gudsfrygt" are weighty devotional terms implying lived piety and reverent fear of God.
+* "Sværmere" historically pejorative, used by rationalists to denote religious enthusiasts.
+
+Syntactic Hazards:
+
+* Long, paratactic sentences with balancing clauses and analogies.
+* Extended comparisons (Denmark’s plains vs. Norway’s mountains) must be preserved as sustained metaphors.
+* Frequent use of concessive constructions ("men som ingen nægter … saa vilde det være ubilligt …").
+
+Theological Hazards:
+
+* Evaluation of true Christianity as "Hjertets Kristendom" must retain Lutheran-pietistic nuance.
+* Distinction between clerical piety and lay revival spirituality.
+* Treatment of "uskyldige Fornøielser" involves moral theology and conscience.
+
+Voice Hazards:
+
+* Calm but firm historical-theological judgment.
+* Avoidance of polemical exaggeration while maintaining earnest seriousness.
+* Authoritative, reflective tone that weighs movements rather than caricaturing them.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Danmarks Sletter og Norges Fjelde" – idiomatic national-geographic metaphor for contrast in temperament and spirituality.
+* "den sande Hjertets Kristendom" echoes pietistic discourse on inward, heart-centered faith.
+* "mystiske Sværmere" reflects Enlightenment-era rationalist critique of experiential Christianity.
+* "uskyldige Fornøielser" refers to morally permissible amusements; heavily debated in revivalist ethics.
+* "faa nogen ret Fortrolighed" implies deep spiritual trust, not mere cordiality.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Assertion of a major qualitative difference between Grundtvigian and Haugean Christianity.
+* Qualification: difference does not negate shared divine origin or genuine Christianity.
+* Historical observation: rationalists grouped both as mystics.
+* Explanation of practical estrangement, especially over moral practices.
+* Case study: Wexels as exemplary yet mistrusted by lay revivalists.
+* Broader sociopolitical context explaining distrust of clergy.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Implicit echo of biblical imagery of heart religion (e.g., Prov. 4:23; Rom. 10:10).
+* Language of offense and stumbling ("Forargelse") resonates with New Testament moral discourse (Matt. 18:7).
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Preserve measured but serious evaluative tone.
+* Maintain moral gravity without sharpening into polemic.
+* Retain sober acknowledgment of tension and disappointment.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "maa betegnes" – must be rendered with full necessity.
+* "vilde det være ubilligt" – moral obligation, not suggestion.
+* "kunde naa" – inability, not mere failure.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Kristendom" → Christianity
+* "Fromhed" → piety
+* "Gudsfrygt" → godly fear / fear of God
+* "Vækkelse" → revival
+* "Lægfolk" → awakened laity / lay believers (consistent phrasing)
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Preserve geographic metaphor intact.
+* Do not explain away imagery into abstract contrast.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Contrast between theological generosity and sociological realism.
+* Balance affirmation of sincerity with acknowledgment of alienation.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Maintain long sentences with semicolons where appropriate.
+* Preserve rhetorical flow suitable for historical-theological exposition.
+
+STEP 11: ACADEMIC TRANSLATION (FINAL)
+
+Finally, there was a considerable difference between the conception of Christianity that accompanied the Grundtvigian movement and that which accompanied Hauge’s revival. These two kinds of views of the Christian life are about as different as the plains of Denmark and the mountains of Norway. Yet just as no one denies that the same Creator’s hand brought forth such great contrasts in nature, so it would be unjust to judge that true Christianity of the heart was to be found only among the awakened laity and not also among men such as Hersleb, Stenersen, and Wexels. Indeed, so great was the likeness in what was essential between these two Christian tendencies that, from the old rationalistic side, Hersleb, Stenersen, Wexels, and their like‑minded companions were regarded as “mystical enthusiasts and Haugianists.”
+
+Although, therefore, both tendencies must be described as serious and Christian, the difference was nevertheless so great that they had exceedingly great difficulty in attaining any genuine intimacy with one another. In particular, the two movements’ understanding of the so‑called “innocent amusements” was so different and so contradictory that offense was continually given and taken in daily life. And even if one must acknowledge Wexels as a devout and sincere Christian, everyone nevertheless knows that throughout his long service in the Norwegian Church from 1819 to 1866 he never attained any general trust among the awakened laity. At times it seemed as though a reconciliation might come about; but then there always occurred one event or another that caused new suspicion to arise, and the distance became rather greater than less.
+
+If now, as stated above, Wexels must be regarded as one of the foremost representatives of godliness and piety as these were found in the Hersleb‑Stenersen school, and if he could not reach the confidence of the laity, then it is self‑evident that the less warm‑hearted disciples of the same tendency never won their way into the heart of the Norwegian church people.
+
+To this there must be added yet another consideration which must not be lost from sight. The Norwegian Constitution of 1814 had promised the Norwegian peasantry so much; but in reality they received, at first, very little. This is not the place to develop this matter more fully; yet one hardly errs in saying that when the farmers reflected upon their situation, they felt themselves disappointed. The civil officials continued in many places to govern in the old absolutist manner, and fairly soon there arose a considerable tension between officials and farmers. From this disappointment and tension there was born, in many places, even great bitterness; and since the clergy were officials of the Crown, it often came to pass that the pastors had to share in the disfavor that prevailed toward the whole bureaucracy.

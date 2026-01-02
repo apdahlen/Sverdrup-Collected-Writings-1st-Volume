@@ -1,0 +1,99 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "inderlig" – conveys deep, heartfelt affection; must not be weakened to mere liking.
+* "Syn" – here likely "vision" or "sight" in an older, poetic sense; contextual nuance needed.
+* "Høiskole" – refers to the University; avoid modern connotations.
+* "Herlighed" – biblical term (glory), not generic splendor.
+* "vorde" – archaic subjunctive/optative; requires elevated English.
+* "Ubehagelighed" – mild but real discomfort or inconvenience, not severe persecution.
+* "Spottegloer" – scornful jests or sneers; tone of mockery.
+* "Kvad" – poetic song or lay; avoid neutral "poem" if possible.
+* "Disciple" – theological resonance; retain gravitas.
+* "Gudsfrygt" – fear of God in reverent sense; not mere anxiety.
+* "Aand" – spirit/intellect; context suggests elevated spiritual-intellectual force.
+
+Syntactic Hazards:
+
+* Long sentences with embedded quotations and appositions.
+* Semicolon logic and cumulative clauses reflecting 19th‑century prose rhythm.
+* Parenthetical identifications that must not be detached.
+
+Theological Hazards:
+
+* Language of divine indwelling, fear of God, justice, and brotherly love.
+* References to "the living Word" and rationalism must retain doctrinal clarity.
+* Lutheran historical consciousness (Reformation, Church history).
+
+Voice Hazards:
+
+* Earnest testimonial tone; must not be flattened.
+* Public defense and personal confession interwoven.
+* Respectful but firm polemical contrast with rationalism.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Gud fylde den med sin Herlighed og lade den vorde hans Navn et Hus" – biblical idiom echoing temple theology (cf. KJV diction); should be rendered in elevated, prayerful English.
+* "elske mere end eders Fødreland" – accusation of misplaced loyalty; rhetorical and nationalistic charge.
+* "saalænge Hjertet slaar" – idiom for lifelong fidelity; biblical-style phrasing preferred.
+* "have ham kjær som en Broder" – Christian fraternal love; retain explicit brotherly imagery.
+* "det levende Ord" – technical Grundtvigian term; retain literal phrase with quotation marks.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Introduction of shared friendships with Grundtvig.
+* Illustration of Grundtvig’s affection and blessing toward Norway’s University.
+* Account of controversy arising from this friendship.
+* Presentation of Wergeland’s accusation and Hersleb’s public defense.
+* Clarification that Hersleb’s closeness did not equal later Grundtvigian discipleship.
+* Nuanced conclusion: agreement in anti-rationalist struggle and Lutheran enthusiasm, without doctrinal identity.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Temple imagery: God’s glory filling a house dedicated to His Name (1 Kings 8; KJV resonance).
+* Language of brotherly love (Romans 12; Hebrews 13).
+* Fear of God and righteousness as marks of true piety (Proverbs; Psalms).
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain public, solemn testimonial tone.
+* Retain moral seriousness in accusations and defenses.
+* Preserve warmth in personal affection without sentimentality.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "maa ikke forstaaes" – must not be understood; retain necessity.
+* "vil have ham kjær" – firm volitional commitment.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Gudsfrygt" → fear of God.
+* "Aand" → spirit.
+* "det levende Ord" → the living Word.
+* "Rationalismen" → Rationalism.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* University as God’s house.
+* Heart beating as life-long measure.
+* Brotherhood as spiritual kinship.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Narrative calm → polemical tension → affectionate confession → clarifying moderation.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Retain long periodic sentences.
+* Preserve quoted speech with rhetorical flow suitable for reading aloud.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING)
+
+Among Grundtvig’s friends were also the two newly appointed Norwegian professors, C. B. Hersleb and S. S. Stenersen. Grundtvig held Hersleb in deep affection and even lingered with his next‑to‑last vision upon this youth. When Hersleb departed for Norway in order to become a teacher at the University, Grundtvig sent with him this wish to Norway’s University: “May God fill it with His glory, and cause it to become a house unto His Name!”
+
+Hersleb’s friendship with Grundtvig brought him a measure of unpleasantness in Norway. For the provost Nikolai Wergeland, father of the poet Henrik Wergeland, wrote a book concerning “Denmark’s political crimes against Norway from 995 to 1814.” In this writing the provost declared that in Denmark one “hatched scornful barbs over humbled Norway,” and cited as an example “the doggerel which that dreamer Grundtvig permitted himself in his lay to the Dannering in 1812.” When, therefore, Hersleb came forward with a defense of Grundtvig, Wergeland returned the charge upon him, saying that “Hersleb and Stenersen are friends and defenders, and perhaps disciples, of Grundtvig and others whom ye seem to love more than your fatherland.”
+
+To this Hersleb replied that he had no need to defend Grundtvig; “but it is a dear duty to me, upon this occasion, publicly to say that for several years, and in the most intimate manner, I have known Grundtvig, and that I love him deeply and sincerely esteem him for his eminent fear of God, his warm and loving heart, his strict righteousness, and his glorious spirit; that I owe him infinitely much, and that, so long as my heart beats, I shall hold him dear as a brother.”
+
+From this one may see that Hersleb stood in a close relation to Grundtvig; yet this must not be understood in such a way as that Hersleb in any sense was what one now understands by a “Grundtvigian.” The distinctive views concerning “the living Word,” which Grundtvig later advanced, and in which a number of immature theologians and schoolteachers followed him, never won Hersleb’s approval. But in the struggle against Rationalism, and in the enthusiasm for the divine Word and for the history of the Church—above all for the Lutheran Reformation—Hersleb stood with his whole heart upon Grundtvig’s side.

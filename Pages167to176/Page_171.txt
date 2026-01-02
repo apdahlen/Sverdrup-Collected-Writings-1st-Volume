@@ -1,0 +1,94 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "vakte Folk" – pietistic term meaning the spiritually awakened laity, not merely emotionally stirred.
+* "aandsdrevne Præster" – literally Spirit-driven clergy; implies guidance by the Holy Spirit, not enthusiasm.
+* "Rationalismens Aandløshed" – spiritual lifelessness, not simply intellectual dryness.
+* "Almuen" – the common people, rural laity; carries social and ecclesial nuance.
+* "Embedsmændene" – office-holders, especially civil servants and clergy; not generic officials.
+* "Frimodighed" – boldness with spiritual courage, often used in Acts.
+
+Syntactic Hazards:
+
+* Long periodic sentences with causal chains introduced by "Derfor".
+* Parenthetical qualifications and semicolon pivots that must be preserved.
+* Rhetorical buildup toward quoted questions.
+
+Theological Hazards:
+
+* Intergenerational consequences of sin ("Fædrenes Synder hjemsøgtes paa Børnene").
+* Opposition between Rationalism and biblical–Lutheran theology.
+* Authority of the preached Word and its absence.
+
+Voice Hazards:
+
+* Earnest, historical-ecclesial narration with prophetic overtones.
+* Risk of flattening polemical force against Rationalism.
+* Risk of softening critique of church-state distance.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Fædrenes Synder hjemsøgtes paa Børnene" – biblical idiom echoing Exodus 20; implies inherited consequences, not guilt alone.
+* "stod endnu stikkende" – vivid metaphor: memories standing like thorns; should not be abstracted.
+* "det levende Ord" – later Grundtvigian slogan; here referenced critically as a simplified doctrine.
+* "Hvi er Herrens Ord forsvundet fra Herrens Hus?" – prophetic lament; KJV-style English required.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Observation of estrangement between awakened laity and clergy.
+* Historical cause: past sins and memories creating mistrust.
+* Transition to emergence of a new clergy after 1811.
+* Identification of key figures (Hersleb, Stenersen) and their formation.
+* Broader impact of Grundtvig’s early prophetic challenge.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Exodus 20:5 – visiting the sins of the fathers upon the children.
+* Prophetic questioning style reminiscent of Jeremiah and Amos.
+* Acts-style "frimodighed" (Acts 4).
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain sharp contrast between lifeless Rationalism and living Christianity.
+* Preserve prophetic anger and urgency.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* Preserve necessity in phrases like "det er nødvendigt".
+* Retain causal force of repeated "Derfor".
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Rationalisme" → Rationalism
+* "luthersk Theologi" → Lutheran theology
+* "Kristendom" → Christianity
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Memories as stinging obstacles.
+* Grundtvig as an angry prophet ascending the pulpit.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Severity in diagnosis of the past.
+* Rising hope with new theological awakening.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Preserve long sentences suited for oral proclamation.
+* Retain rhetorical pauses and climactic question.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING)
+
+Therefore it lasted a long time before any understanding arose between the awakened people and the more serious, Spirit-driven pastors who now began to go forth from Norway’s new University. The sins of the fathers were visited upon the children, and the ugly memories from the past still stood, like sharp thorns, in many places between pastor and congregation. And if it is therefore the case, in general, that in this period one finds a strong suspicion and great distance between the common people and the holders of office, then this is not least the case within the sphere of the Church.
+
+But, as already indicated, there came forth from the new Norwegian University a new kind of pastors. And in order to understand the development after 1850, it is necessary to say a few words about this change within the Norwegian clergy.
+
+Hersleb and Stenersen.
+
+This change stands in connection with the establishment of Norway’s University in 1811. Hersleb and Stenersen, the two first theological professors at the young institution of higher learning, were men who had completely broken with the lifelessness of Rationalism, and who sought—though often groping their way—to return to a biblical and Lutheran theology. Both of these men had received their theological education at the University of Copenhagen. Both had also received strong impressions from N. F. S. Grundtvig, who was approximately of the same age as they.
+
+Those who have only heard Grundtvig’s name in connection with the childish notion of “the living Word,” which later came to be called “Grundtvigianism,” will have difficulty forming any true conception of the significance of Grundtvig’s first appearance for the Danish Church. After Rationalism had for a long time been practically and almost exclusively dominant in school and in church, Grundtvig stepped forward with a glowing enthusiasm for ancient Christianity and the Lutheran Reformation. Warm and fresh, he set upon the hollow and dry conception of Christianity and of human life held by the Rationalists; and like an wrathful prophet he ascended the pulpit and asked with the earnestness of a land in distress: “Wherefore has the Word of the Lord vanished from the house of the Lord?”
+
+That question fell like a thunderclap through the whole Danish clergy when it rang out across the land; and in many young hearts this boldness and power awakened a strange enthusiasm and a mighty sympathy.

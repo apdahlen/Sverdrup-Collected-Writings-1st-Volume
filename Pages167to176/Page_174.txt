@@ -1,0 +1,100 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Virke" – denotes vocational activity or ministry, not merely work.
+* "Rationalister" – carries specific theological meaning (Enlightenment rationalism), not generic rational thinkers.
+* "vak­te Folk" – refers to spiritually awakened lay believers, especially within revival movements.
+* "personlig Kristendom" – signifies lived, experiential faith, not private religion in a modern sense.
+* "Omvendelse" – conversion in the Lutheran-pietistic sense, implying repentance and new birth.
+* "Vidnesbyrd" – spiritual testimony, not mere evidence.
+* "akademisk Frihed" – historically conditioned concept, often implying moral laxity.
+
+Syntactic Hazards:
+
+* Long, multi-clause sentences with semicolon logic.
+* Contrastive structures ("paa den ene Side … paa den anden Side").
+* Accumulative parallelism listing multiple effects.
+
+Theological Hazards:
+
+* Concepts of conversion, personal faith, and revival spirituality.
+* Distinction between doctrinal orthodoxy and experiential Christianity.
+* Tension between clergy and awakened laity (Haugian context).
+
+Voice Hazards:
+
+* Risk of softening critical tone toward clergy and students.
+* Risk of modernizing sermonic cadence into neutral academic prose.
+
+STEP 2: IDIOM ANALYSIS
+
+* "det vakte Folk" – idiomatically refers to revival-awakened believers; literal "awakened people" would weaken theological sense.
+* "personlig Kristendom" – pietistic idiom stressing inward, lived faith.
+* "leve i Gud" – biblical-pietistic phrase for life rooted in God.
+* "erobre sig Tillid" – metaphor of conquest; should retain force ("win" or "gain" trust with effort).
+* "Drik, Dans og Spil" – stereotypical triad of worldly amusements condemned in revivalist discourse.
+
+KJV Resonance:
+
+* "Conversion unto God"
+* "Awakened" (as in spiritual awakening)
+* "Testimony"
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis: A significant change in the clergy followed the work of these two men.
+* Qualification: Despite this change, their disciples did not immediately gain the trust of the awakened people.
+* Supporting Explanation 1: Many early theological candidates lacked evidence of personal Christianity.
+* Supporting Explanation 2: Professors inspired reverence and doctrinal interest, not personal conversion.
+* Supporting Explanation 3: Student life was often frivolous and morally suspect.
+* Conclusion: Therefore, suspicion toward the clergy increased, and trust was difficult to win.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "Omvendelse til Gud" – echoes Acts 20:21 ("repentance toward God").
+* "leve i Gud" – Johannine and Pauline life-in-God imagery.
+* Moral contrast between holiness and worldly excess echoes Pauline exhortations.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Retain critical assessment of clergy and students.
+* Preserve sober, evaluative, pastoral-historical tone.
+* Avoid apologetic softening of moral critique.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "maatte følge" – must necessarily follow.
+* "kan man ikke undres" – cannot be surprised; strong logical necessity.
+* "ingenlunde let" – by no means easy; emphatic negation.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Kristendom" – Christianity (experiential where context demands).
+* "Omvendelse" – conversion.
+* "Tillid" – trust (often "full, heartfelt trust").
+* "det vakte Lægfolk" – the awakened laity.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Trust as something to be "erobret" (won, gained with effort).
+* Moral excess described vividly; not abstracted.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Respectful acknowledgment of professors’ influence.
+* Sharp contrast with moral and spiritual deficiencies.
+* Maintain tension between hope and criticism.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Preserve long sentences with cumulative rhythm.
+* Maintain rhetorical flow suitable for historical narration with sermonic undertones.
+
+STEP 11: ACADEMIC TRANSLATION (FINAL)
+
+From this one will understand that with the activity of these two men there necessarily followed a considerable change within the clergy. It was no longer rationalists who came forth from the university among the people. But on the other hand, one can by no means be surprised that the disciples of Hersleb and Stenersen did not at once find full confidence among the awakened people.
+
+For in the first place one must observe that a whole number of the earliest theological graduates from Norway’s University were far from having borne witness to any personal Christianity. Whatever one may think of Hersleb’s and Stenersen’s own personal life in God, the influence that proceeded from them upon the studying youth was not, in the proper sense, of such a kind as aimed at a personal conversion unto God. They awakened reverence for the Word of God and for the history and doctrine of the Lutheran Church; they awakened interest in a scolarly pursuit of theology; they awakened enthusiasm for the truth and holiness of Christianity. But the entire conception of the relationship between theological professors and students was at that time not such that one could expect any real personal influence in a Christian sense.
+
+Student life in this period was, on the whole, rather frivolous, and in part even wild and noisy. And the theological students did not always form an exception to the rule. According to old German and Danish custom, the students in Christiania at this time enjoyed an “academic freedom” which often degenerated into a perilous levity. When, then, the reports from the student world spread out over the countryside, and the strict Haugian believers heard that the students were often complete masters of drink, dance, and gaming, one cannot be surprised that their suspicion toward the clergy rather increased than diminished; and it was by no means easy even for the earnest, Christian pastors of Hersleb’s and Stenersen’s school to overcome this mistrust and to win for themselves a full, heartfelt confidence among the awakened laity.

@@ -1,0 +1,103 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Tid" / "ny Tid" – more than chronological time; denotes an epochal shift in cultural, spiritual, and national life.
+* "Slægt" – generation or cohort, not merely family lineage.
+* "Førrelse" – guidance, leadership, divine leading; carries providential nuance.
+* "Vækkelsen" – revival in a pietistic, spiritual-awakening sense.
+* "Virksomhed" – active ministry or labor, not generic activity.
+* "Livets Sæd" – metaphor with biblical weight (parable of the sower).
+* "Folkefrihedens Fødsel" – national independence/liberty with almost personified force.
+
+Syntactic Hazards:
+
+* Long, layered sentences with causal and temporal clauses.
+* Sermonic pacing with semicolons and cumulative logic.
+* Embedded biblical quotation with explanatory framing.
+
+Theological Hazards:
+
+* Divine providence governing nations.
+* Understanding of revival as God-initiated, not human.
+* Concept of being an "instrument" or "chosen vessel."
+* Parable of the sower imagery tied to fruit-bearing faith.
+* Warning against honoring prophets retrospectively without obedience.
+
+Voice Hazards:
+
+* Earnest, reverent Lutheran tone.
+* Exhortational and doxological elements.
+* Danger of modern smoothing that weakens gravity and solemn praise.
+
+STEP 2: IDIOM ANALYSIS
+
+* "bygge Profeternes Grave" – biblical idiom (cf. Matt. 23:29), meaning to honor past prophets while resisting their message.
+* "bøie sig" – to humble oneself inwardly, especially before God’s word.
+* "Herren være lovet" – doxological phrase requiring elevated, biblical English.
+* "ulærde Mænd og Lægfolk" – biblical phrasing echoed directly from Acts 4:13.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Assertion: A new generation necessarily inaugurates a new historical epoch.
+* Historical claim: Around 1850 marks a clear turning point in Norwegian history.
+* Extension: This turning point applies also to church and spiritual life.
+* Focus: Introduction of the Haugean revival as divine preparation.
+* Development: Description of Hauge’s ministry amid national suffering.
+* Evaluation: Fruitfulness of the revival despite opposition.
+* Warning: Against superficial posthumous praise.
+* Conclusion: Proper response—praise to God for raising such a servant.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Parable of the Sower (Matt. 13) – "Livets Sæd," good soil, fruit-bearing.
+* Acts 4:13 – explicit quotation regarding Peter and John.
+* Matthew 23:29 – "building the prophets’ tombs."
+* General providence theology echoing Old Testament historiography.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Retain praise without sentimentality.
+* Preserve warning tone regarding hypocrisy.
+* Maintain solemn gratitude toward God’s intervention.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "maatte begynde" – must necessarily begin.
+* "kan sættes" – legitimately may be set, not tentatively.
+* "maa dog ikke afholde" – must not deter; strong exhortation.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* God / Herren – consistent reverent capitalization.
+* Folk – people/nation depending on context.
+* Vækkelse – revival throughout.
+* Sæd – seed consistently retained as metaphor.
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Seed and soil imagery preserved.
+* Nation’s suffering portrayed as preparatory ground.
+* Hauge as an instrument, not originator.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Historical observation → theological reflection → exhortation → doxology.
+* Maintain contrast between human praise and divine work.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Long sentences retained where rhetorically purposeful.
+* Semicolons and commas used to preserve sermonic flow.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING)
+
+Every one will understand that a new age must needs begin when this new generation first gained influence in state, church, school, commerce, and all the various branches of national life.
+
+We cannot therefore marvel if we find that a distinct division may be set in the history of Norway around the year 1850. And it is altogether reasonable that the ecclesiastical and spiritual development of Norway likewise took a clearly discernible turn about this time.
+
+\subsection{The Revival through Hauge}
+
+God, who governs the nations according to His wise counsel, granted the Norwegian people a singular providence. At the same time as the afflictions which preceded the birth of national liberty in Norway, there fell the blessed labor of Hans Nielsen Hauge. In the heavy years through which Norway passed at the beginning of this century, this chosen instrument wandered about the land and, amid much opposition and persecution, scattered the seed of life in the hearts of the people. And, praised be the Lord, manifoldly did the seed fall into good soil, and it sprang up and bore blessed fruit.
+
+It is indeed easy to build the prophets’ tombs, while it is exceedingly hard to bow oneself wholly and sincerely beneath their earnest words. And therefore it is not always easy to understand the praise which now from many quarters is poured out also upon Hauge and the friends of Hauge; yet the fear of falling under this judgment must not deter us from praising the Lord, who looked upon our people in their distress and made Himself known to them, and who raised up in their midst a man of whom it may in truth be said, as of Peter and John: “Now when they saw the boldness of Peter and John, and perceived that they were unlearned and common men, they marvelled; and they took knowledge of them, that they had been with Jesus” (Acts 4:13).
