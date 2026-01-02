@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  2 JAN 2026 09:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.26)  2 JAN 2026 15:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -471,7 +471,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 7.
  [5] [6]
 [7] [8]) [9] [10] (Pages1to5/Pages1to5.tex
-<OpenImage1.png, id=139, 929.72343pt x 226.59656pt>
+<OpenImage1.png, id=144, 929.72343pt x 226.59656pt>
 File: OpenImage1.png Graphic file (type png)
 <use OpenImage1.png>
 Package pdftex.def Info: OpenImage1.png  used on input line 3.
@@ -483,7 +483,7 @@ been already used, duplicate ignored
                    \relax 
 l.36 
       [1 <./OpenImage1.png>] [2] [3] [4]) (Pages6to14/Pages6to14.tex [5]
-<OpenImage2.png, id=166, 1593.70406pt x 365.86688pt>
+<OpenImage2.png, id=171, 1593.70406pt x 365.86688pt>
 File: OpenImage2.png Graphic file (type png)
 <use OpenImage2.png>
 Package pdftex.def Info: OpenImage2.png  used on input line 3.
@@ -498,7 +498,7 @@ le; there are chief-tains and standard[]bearers;
 [7] [8] [9] [10] [11] [12]) (Pages15to24/Pages15to24.tex [13] [14] [15]
 [16] [17] [18] [19] [20] [21]) (Pages25to35/Pages25to35.tex [22] [23] [24]
 [25] [26] [27] [28] [29] [30]) [31] (Pages36to57/Pages36to57.tex
-<OpenImage3.png, id=288, 926.71219pt x 169.38281pt>
+<OpenImage3.png, id=293, 926.71219pt x 169.38281pt>
 File: OpenImage3.png Graphic file (type png)
 <use OpenImage3.png>
 Package pdftex.def Info: OpenImage3.png  used on input line 3.
@@ -515,22 +515,28 @@ File: OpenImage1.png Graphic file (type png)
 Package pdftex.def Info: OpenImage1.png  used on input line 3.
 (pdftex.def)             Requested size: 422.77664pt x 103.03935pt.
  [51]
-[52] [53] [54] [55] [56] [57] [58] [59] [60]) [61] (WORKFLOW.aux)
+[52] [53] [54] [55] [56] [57] [58] [59] [60]) [61] (Pages70to87/Pages70to87.tex
+File: OpenImage2.png Graphic file (type png)
+<use OpenImage2.png>
+Package pdftex.def Info: OpenImage2.png  used on input line 3.
+(pdftex.def)             Requested size: 422.77664pt x 97.05475pt.
+[62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76])
+[77] (WORKFLOW.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `WORKFLOW.out' has not changed.
-(rerunfilecheck)             Checksum: 90E166AD4F70CA6E06200C3D0D09128F;2716.
+(rerunfilecheck)             Checksum: A503D2A0729F1DCAC673E19CD4E1B5EC;3009.
  ) 
 Here is how much of TeX's memory you used:
- 11681 strings out of 474486
- 189011 string characters out of 5743754
+ 11708 strings out of 474486
+ 189458 string characters out of 5743754
  1934542 words of memory out of 5000000
- 33479 multiletter control sequences out of 15000+600000
+ 33483 multiletter control sequences out of 15000+600000
  626076 words of font info for 168 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,8n,67p,2202b,514s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,8n,67p,2222b,514s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
 b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 ><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
@@ -538,9 +544,9 @@ b><C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 C:/Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
 /Users/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/U
 sers/apdah/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on WORKFLOW.pdf (72 pages, 1168107 bytes).
+Output written on WORKFLOW.pdf (88 pages, 1218814 bytes).
 PDF statistics:
- 476 PDF objects out of 1000 (max. 8388607)
- 103 named destinations out of 1000 (max. 500000)
- 37512 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 555 PDF objects out of 1000 (max. 8388607)
+ 121 named destinations out of 1000 (max. 500000)
+ 37520 words of extra memory for PDF output out of 42996 (max. 10000000)
 
