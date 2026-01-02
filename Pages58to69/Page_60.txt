@@ -77,11 +77,11 @@ STEP 10: ORAL CADENCE AWARENESS
 
 STEP 11: ACADEMIC TRANSLATION (FINAL)
 
-The Free Church in History.
+\subsubsection{The Free Church in History}
 
 [Editorial Note: A manuscript which, judging from the handwriting, belongs to the very earliest years after the author’s arrival in America. It is presumably the manuscript of a speech; at any rate, I have found no trace that it was ever published before. See moreover the note on page 58. — Ed.]
 
-Throughout Christendom, in these days when the development of the world’s freedom has shown the way to self-government, there is a living question concerning the free Church. When it is cried for on all sides, without distinction—by conservatives as well as by liberals, by monarchists as well as by republicans, by those who fervently confess the Christian faith as well as by those who fervently deny Christianity—this leads of necessity to the thought that this name, “the free Church,” carries with it many different conceptions. At once we must suppose that some who desire a free Church would therein have a substitute for absolutism, which is a lost cause in the political sphere, while others would therein seek the same freedom as in the state, and others again perhaps seek the Church’s true good, regardless of whither this might lead them.
+Throughout Christendom, in these days when the development of the world’s freedom has shown the way to self-government, there is a living question concerning the free Church. When there is clamor on all sides, without distinction—by conservatives as well as by liberals, by monarchists as well as by republicans, by those who fervently confess the Christian faith as well as by those who fervently deny Christianity—this leads of necessity to the thought that this name, “the free Church,” carries with it many different conceptions. At once we must suppose that some who desire a free Church would therein have a substitute for absolutism, which is a lost cause in the political sphere, while others would therein seek the same freedom as in the state, and others again perhaps seek the Church’s true good, regardless of whither this might lead them.
 
 If, then, the free Church has as yet no definite meaning, but merely designates the Church which is independent of the state, and which otherwise each person imagines for himself as he will, it is evident that here in America—where no other kind of Church exists than the free Church—it will be most timely to attempt to make clear to ourselves what this is to mean.
 
