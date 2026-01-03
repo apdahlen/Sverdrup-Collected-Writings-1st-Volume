@@ -1,0 +1,89 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Vækkelse" (awakening) – carries pietistic and revivalist weight beyond a generic "revival".
+* "Kald" (call) – theological vocation, not merely invitation.
+* "ofre sig" – self-sacrificial devotion, not simple volunteering.
+* "Lægfolk" – non-ordained believers, with ecclesiological implications.
+* "Theologisk Kandidat" – specific academic-clerical status in 19th-century Norway.
+* "Missionsgjerningen" – mission as sacred work, not merely activity.
+
+Syntactic Hazards:
+
+* Long, layered sentences with subordinate clauses reflecting historical-theological narration.
+* Use of semicolons and commas to mark rhetorical progression rather than modern sentence breaks.
+* Passive constructions that convey providential agency.
+
+Theological Hazards:
+
+* Concept of divine calling mediated through the Spirit.
+* Relationship between lay revival movement and clerical theology.
+* Understanding of mission as obedience to God rather than institutional employment.
+
+Voice Hazards:
+
+* Risk of flattening solemn historical narration into neutral academic prose.
+* Risk of softening the tension and gravity of ecclesial conflict.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Her er jeg, send mig" – clear allusion to Isaiah 6:8; should be rendered in KJV-style English.
+* "Herrens Aand" – biblical phrase; KJV equivalent "the Spirit of the Lord".
+* "vaakte Lægfolk" – pietistic term indicating spiritually awakened laity.
+* "ikke saa underligt" – rhetorical understatement; implies inevitability.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Opening: The Norwegian awakening comes to recognize its global calling.
+* Introduction of Hans Schreuder as divinely driven instrument.
+* Description of his quiet preparation and readiness.
+* Institutional complexity: lack of initial connection with mission society.
+* Emerging cooperation marked by ambiguity and misunderstanding.
+* Consequence: later rupture explained as almost inevitable.
+* Conclusion: denial that full reconciliation between laity and theologians had yet occurred.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Isaiah 6:8 – "Here am I; send me".
+* General biblical language of calling, sacrifice, Spirit-led action.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain sober, reflective tone.
+* Preserve gravity when speaking of ecclesial division.
+* Avoid minimizing conflict or over-harmonizing narrative.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "skulde" – must be rendered with strong obligation ("should", "was to").
+* "maa" (implicit necessity) – preserve sense of inevitability.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Call" for Kald
+* "Awakening" for Vækkelse
+* "Mission" / "missionary work" for Missionsgjerning
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* "Dyb Kløft" – retain as "deep gulf" or "deep chasm".
+* Avoid abstract paraphrase.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Hopeful calling contrasted with sober institutional tension.
+* Preserve historical irony and restraint.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Retain long sentences where historically intentional.
+* Preserve rhetorical pacing suitable for historical-theological exposition.
+
+STEP 11: ACADEMIC TRANSLATION (FINAL)
+
+At the same time that the Norwegian Awakening thus began to recognize its world-embracing calling, the Spirit of the Lord drove Hans Schreuder (born 1817 in Sogndal in Sogn\footnote{Theological Candidate 1841. Authorized for ordination as a missionary pastor in 1842. Consecrated as Bishop of the Norwegian Mission in Zululand in 1866. Died 1882. — Ed.}) to offer himself for mission work. Long and quietly was Schreuder prepared for this work; and when, in 1841, he became a theological candidate, he was also ready to say: Here am I; send me.
+
+From the beginning there was no connection between Schreuder and the friends of mission in Stavanger, nor with the newly founded Missionary Society. In order to support Schreuder, a committee was first formed in Christiania, consisting of Pastor Wærle and the theological professors; and this committee collected more than 2,450 specie-dollars for Schreuder’s mission. But after prolonged hesitations and negotiations it was arranged that Schreuder should be the missionary of the Norwegian Missionary Society. Yet this first step toward cooperation between the awakened laity and the earnest theologians was still so unclear, and the relationship so little marked by mutual confidence, that Schreuder in reality never understood the matter as though he were to stand in the service of the Norwegian Missionary Society, but rather held the conception that the Norwegian Missionary Society was essentially to serve him by gathering the necessary means for the furtherance of his work. It was therefore not so strange if there later came about a breach between these two, who in so little an organic manner had been brought into cooperation.\footnote{This refers to the breach between Schreuder and "The Norwegian Missionary Society" which occurred in 1873, and which led to the missionary work in Zululand being divided between this Missionary Society and "The Church of Norway Mission by Schreuder." — Ed.}
+
+One must therefore take great care not to imagine that already at this event, as significant as it is, there had occurred a full reconciliation and union between the awakened laity and the Christian theologians in Norway. There remained still a deep gulf, and soon there appear traces of the opposition.

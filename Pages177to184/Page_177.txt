@@ -1,0 +1,100 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Missionsaand" – not merely "missionary spirit" but a spiritually awakened disposition toward foreign and home missions.
+* "Vækkelse" – pietistic revival; must not be flattened to generic "awakening" without religious force.
+* "Enfold" – theological simplicity, evangelical plainness; not intellectual simplicity.
+* "Fortrolighed" – implies deep familiarity, not casual acquaintance.
+* "Lægfolk" – the laity in contrast to clergy, with ecclesial weight.
+
+Syntactic Hazards:
+
+* Long periodic sentences with multiple subordinate clauses.
+* Semicolon logic that structures argument rather than ornament.
+* Coordinated historical narration with theological interpretation interwoven.
+
+Theological Hazards:
+
+* Distinction between clergy and laity in Lutheran ecclesiology.
+* The concept of God preparing "Redskaber" (instruments).
+* Revival (Vækkelse) as a work of God, not sociological movement.
+* Mission as a fruit of spiritual awakening.
+
+Voice Hazards:
+
+* Risk of modernizing into neutral historical prose.
+* Loss of reverent tone when referring to divine agency ("Herren beredte sig Redskaber").
+* Weakening the evaluative language praising seriousness and truth.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Det gik fremdeles sin stille Gang" – idiom meaning continued quietly, without outward disruption.
+* "beredte sig Redskaber" – biblical idiom (cf. Isaiah/Jeremiah imagery); God fashions instruments for His work.
+* "grebne af Kristendommens Alvor og Enfold" – seized or laid hold of by the seriousness and simplicity of Christianity.
+* "vaagtes en Opmærksomhed og Agtelse" – awakened respect; implies moral and spiritual recognition.
+* "paa Stavangerkanten" – regional expression meaning the Stavanger area.
+
+KJV Parallels:
+
+* "The Lord prepared" / "The Lord raised up" as natural biblical English.
+* "Awakened" / "stirred up" echoing biblical revival language.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Initial condition: lack of close alignment between clergy and laity.
+* Hidden preparation: God quietly preparing change.
+* Bridge-building: theologians becoming more attuned to popular religious life.
+* Mutual recognition: revival influencing clergy toward respect for lay movement.
+* Historical turning point: circa 1840.
+* Concrete expressions: institutions, laws, missionary actions.
+* Purpose: to explain later post-1850 church movement.
+* Case study: Stavanger revival leading to the Norwegian Missionary Society.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Divine preparation of instruments – cf. Isaiah 10:5; Jeremiah 1:5.
+* Awakening language – Romans 13:11; Ephesians 5:14.
+* Fruit-bearing revival – Matthew 7:16.
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Retain evaluative judgments ("langt mere i Harmoni").
+* Preserve reverent references to divine action.
+* Maintain seriousness regarding spiritual movements.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "skulde blive" – must be rendered as strong future consequence ("was to become").
+* Avoid conditional softening.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* "Vækkelse" consistently as "revival".
+* "Theologer" as "theologians," not generic scholars.
+* "Missionssagen" as "the cause of missions".
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Bridge metaphor ("en Bro over") retained.
+* Awakening imagery preserved.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Quiet preparation vs. later visible change.
+* Historical narration combined with theological interpretation.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Preserve long sentences where emphasis builds gradually.
+* Avoid choppy modernization.
+
+STEP 11: ACADEMIC TRANSLATION (FINAL)
+
+\subsubsection{The Awakening Missionary Spirit}
+
+There was thus as yet no significant alignment in national direction between the clergy and the laity. Things continued to move along in their quiet course. Yet in silence, during this period, the conditions for great changes for the better were nevertheless being prepared. Among the theologians, even the interests of the common people which had been awakened became a bridge toward greater familiarity with the modes of thought of the laity in the religious and ecclesiastical sphere. And the Lord prepared for Himself instruments from among the theologians who, in a wholly different manner than the earlier theologians, were laid hold of by the seriousness and simplicity of Christianity, and whose labors were therefore to come into far greater harmony with the old revival. At the same time, the old revival advanced in the cause of missions in such a way that among many of the earnest theologians and pastors there was awakened an attention to, and respect for, its power and truth such as had never existed before.
+
+It is around the year 1840 that these movements, which until then had unconsciously been striving toward a measure and a union, begin to be discerned. We reckon among these chiefly the founding of the Missionary Society in 1842, Schreuder’s commissioning in 1843, the efforts toward the repeal of the Conventicle Act, the Dissenter Law, and several other lesser matters. We must therefore here briefly touch upon these things, because they are necessary for understanding the ecclesiastical and Christian movement in Norway after 1850, which will properly be the subject of the present little treatise.
+
+In the region around Stavanger, the Haugean revival, chiefly led by John Haugvaldstad, had maintained itself in a sounder and fresher condition than in several other places. It was this movement which, in part spurred on by other forces (Pastor Kielland and Mrs. Kielland), brought forth the Norwegian Missionary Society. At first it was a missionary association in Stavanger which, after having existed for a longer period, invited to a common meeting of friends of missions; and from this followed the establishment of “The Norwegian Missionary Society,” whose founding day is the 8th of August, 1842.

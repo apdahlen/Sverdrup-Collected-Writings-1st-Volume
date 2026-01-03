@@ -1,0 +1,105 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Embedsstand" – denotes the civil and clerical educated estate, not merely "officials".
+* "Lægfolket" – the non-ordained laity; carries ecclesial weight.
+* "fri Virksomhed" – religious activity and initiative outside clerical control.
+* "Anstødssten" – biblical metaphor (stumbling block).
+* "Mistillid" – distrust with moral and ecclesial overtones.
+* "Rationalismens Dage" – specific theological movement, not generic rational thought.
+* "Forklaring" – catechetical exposition, not mere explanation.
+* "Udtog" – abridgment or epitome.
+* "Almueskolerne" – popular/common schools.
+
+Syntactic Hazards:
+
+* Long, periodic sentences with concessive structures.
+* Heavy use of semicolons to mark logical turns.
+* Parenthetical clarifications embedded mid-sentence.
+* Sermonic pacing that resists simplification.
+
+Theological Hazards:
+
+* Tension between clergy and laity regarding authority and orthodoxy.
+* Catechetical authority of Luther’s Catechism and Pontoppidan.
+* Fear of uncontrolled religious activity.
+* Rationalism versus confessional Lutheran piety.
+
+Voice Hazards:
+
+* Measured but firm ecclesial critique.
+* Historical narration with implicit theological judgment.
+* Risk of flattening solemn institutional language into neutral modern prose.
+
+STEP 2: IDIOM ANALYSIS
+
+* "Anstødssten" – echoes Romans 9:33; best rendered "stumbling block" (KJV).
+* "føle Evne og Kald" – language of vocation; not mere competence.
+* "Folket kjær" – beloved by the people; emotional and pastoral resonance.
+* "enfoldigere" – simplicity as spiritual clarity, not intellectual poverty.
+* "raabe paa en Forandring" – public agitation, not casual suggestion.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Observation of partial rapprochement between clergy and laity.
+* Assertion that deep divisions nevertheless remain.
+* Identification of mutual distrust and clerical resistance.
+* Presentation of the textbook controversy as the sharpest manifestation of conflict.
+* Historical account of Saxtorph’s abridgment and its reception.
+* Description of governmental attempts at reform.
+* Conclusion with state-imposed limitation on acceptable textbooks.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* "Anstødssten" – Romans 9:33 / 1 Peter 2:8.
+* Vocation language – Pauline and Lutheran theology of calling.
+* Implicit appeal to confessional foundations (Luther’s Catechism).
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Maintain restrained but unmistakable critique.
+* Preserve seriousness of ecclesial conflict.
+* Avoid neutral bureaucratic tone.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* "bør lægges til Grund" – must/ought to be laid as foundation.
+* "skulde det kun være tilladt" – strict necessity and prohibition.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Lægfolk – laity
+* Gejstlighed – clergy
+* Forklaring – Explanation (catechetical)
+* Lærebog – textbook
+* Religionsundervisning – religious instruction
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Retain "stumbling block" metaphor.
+* Preserve imagery of currents and streams for movements.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Contrast between hopeful convergence and sharp conflict.
+* Respect historical narration while retaining evaluative edge.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Preserve long sentences where argumentative flow depends on them.
+* Maintain semicolon turns and concessive openings.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+FINAL TRANSLATION:
+
+We thus observe that although at this time, in the first place, a far more popular current runs through our entire official and clerical estate, and although, in the second place, within certain ecclesiastical fields a rapprochement is taking place between the theologians and the laity, yet there still remains much that divides. For on the one hand, the national enthusiasm of the university educated is still a stumbling block to the laity, and on the other hand there continues to be a distrust of the laity’s free activity. One senses that a portion of the clergy is well inclined, by new means, to restrain the free activity which the law no longer forbids.
+
+But even if some had not been attentive to this, the opposition between the two tendencies within the Norwegian Church at this time came to manifestation in the sharpest possible manner in the textbook controversy.
+
+\subsubsection{The Textbook Controversy}
+
+In this matter the situation is such that already in the days of Rationalism, and after its time, an opposition arose against P. Saxtorph’s abridgment of Pontoppidan’s Explanation. Saxtorph, who died in 1803 as parish pastor at St. Nikolai Church in Copenhagen, had already in 1771 published this work, excellent in many respects. Little by little it was introduced into the great majority of schools in Norway. But new theological viewpoints gained ground among the educated classes; Saxtorph’s language began to grow antiquated, and from certain quarters there arose clamor for a change. Already in 1828 the Norwegian Church Department issued an invitation to those Norwegian pastors who might feel both ability and calling thereto, either to revise the abridgment or to compose a new textbook for use in the common schools and in confirmation instruction. On that occasion Wærles wrote in 1831: “That the Saxtorphian abridgment might stand in need of revision, this at least I will not deny; but the book has become dear to the people, and no one in our day provides a more heartfelt, more spirited, and on the whole more simple Christian exposition of Luther’s Catechism (which indeed ought surely to be laid as the foundation for every textbook intended for the religious instruction of children).”
+
+Meanwhile, following the above-mentioned invitation from the Department, nine drafts for a new textbook in religion were submitted. They were examined, but none of them was approved. The government therefore appointed a commission, consisting of Professors Keyser and Kaurin and Pastor Wærles, to prepare a new edition of Pontoppidan’s Explanation. It was chiefly Kaurin and Wærles who carried out this work, and the result was that in 1842 there appeared a revised Explanation and a reviewed edition of Saxtorph’s abridgment. And in 1843 the government determined that after five years, that is, from 1848 onward, it should be permitted to use only one of these two books in religious instruction.

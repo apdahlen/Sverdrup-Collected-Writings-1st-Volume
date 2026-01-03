@@ -1,0 +1,96 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards:
+
+* "Forklaring" refers specifically to a catechetical explanation (Pontoppidan’s Explanation), not a generic explanation.
+* "vaakte Folk" denotes the spiritually awakened revivalist laity (Haugean), not merely "alert people."
+* "grundtvigske Surdeig" is polemical, echoing biblical "leaven" imagery; it must retain negative doctrinal connotation.
+* "Gjenfødelsen" carries strong Lutheran regeneration theology; not psychological renewal.
+* "Salighedshaab" is eschatological hope of salvation, not vague optimism.
+* "Lægfolket" signifies non-ordained church members with theological agency.
+
+Syntactic Hazards:
+
+* Long periodic sentences with enumerated clauses (1–4) must remain intact.
+* Semicolon-driven logic mirrors sermon argumentation.
+* Embedded quotations require careful cadence and register.
+
+Theological Hazards:
+
+* Regeneration through baptism vs. necessity of conversion.
+* Ecclesiology: church membership, baptismal grace, and perseverance.
+* Post-mortem evangelization as doctrinally explosive.
+* Moral theology concerning worldly amusements.
+
+Voice Hazards:
+
+* Polemical yet earnest Lutheran exhortational tone.
+* Appeals to conscience of the "awakened people."
+* Risk of flattening conflict into neutral academic prose.
+
+STEP 2: IDIOM ANALYSIS
+
+* "brød Stormen løs" – idiom for sudden outbreak of conflict; rhetorical force should be preserved.
+* "bar i sit Skjød" – maternal metaphor for internal contradiction.
+* "Surdeig" – biblical leaven (Matt. 16:6); here corrupting influence.
+* "vaagner i Helvede" – awakening in hell; vivid eschatological warning.
+* "falden ud af Daabens Naade" – loss of baptismal grace; KJV resonance needed.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+* Thesis: The controversy revealed deep contradictions within the Norwegian Church.
+* Evidence: Doctrinal deviations in the revised catechism.
+* Enumeration: Four specific theological errors.
+* Evaluation: These together accommodate state-church complacency.
+* Outcome: Beneficial resistance preventing enforced adoption.
+* Forward Look: Emergence of forces promising renewal and cooperation.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* Leaven imagery (Matt. 13; Gal. 5:9).
+* False prophets (Matt. 7:15).
+* Regeneration and baptism (John 3; Titus 3).
+* Church as holy communion (Apostles’ Creed; Luther’s Catechism).
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Retain sharp denunciations and sober warnings.
+* Preserve contrast between exaggeration of language and seriousness of cause.
+* Maintain earnest defense of conversion Christianity.
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* Preserve necessity and impossibility where implied ("ikke mere havde Gjenfødelse behov").
+* Retain firmness in judgments about doctrine and church peace.
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* Gjenfødelse → regeneration
+* Daabens Naade → grace of baptism
+* Kirke → Church (capitalized when doctrinal)
+* Omvendelse → conversion
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* Storm imagery, leaven, awakening, standing within or falling out of grace.
+* Avoid explanatory dilution.
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* Conflict and warning → hope and promise.
+* Polemic → pastoral expectation.
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Preserve long sentences and rhythmic buildup.
+* Keep enumerations audible and balanced.
+
+STEP 11: ACADEMIC TRANSLATION (FINAL)
+
+And thus the storm broke loose, so that one could plainly see what strong contradictions the Norwegian Church bore in her bosom. The revised Explanation bore a strong mark of the Grundtvigian leaven, which was so repugnant to the awakened people. And when this view now came forward with a claim to be the sole authorized one in the religious instruction of children, there arose against it a resistance as natural as it was justified. Indeed, exaggerated expressions were employed when it was said that the authors of the revised Explanation were “false prophets who deceive souls with a hope of salvation, until they awaken in hell”; yet in the matter itself the struggle against the revised Explanation was in reality a struggle for serious Christianity and for the necessity of conversion. For what the awakened people had against the book was that it: 1) in the doctrine of regeneration and of the Church made room for the mode of viewing all the baptized as regenerated and therefore as good and proper members of the Church, who no longer had need of regeneration; 2) taught a preaching of the Gospel to the dead, whereby these could be converted; and 3) struck out Pontoppidan’s judgment upon “dancing, games, comedies, tavern-going, and such things as are all sin in themselves”; finally, that 4) in the third article of faith it had placed only “a holy, universal Church” instead of Pontoppidan’s “to be a holy, universal, Christian Church,” or Luther’s: “a holy Christian Church.”
+
+It is of no use to deny that when all these four points are taken together, one receives the impression that the simple Christian truth had been accommodated in such a way that it should not stand in too sharp a contrast to the whole state-church system. Forced baptism brought people into the Church, and the most frivolous worldly amusements could not be a testimony that one had fallen out of the grace of baptism and the state of regeneration.
+
+This hard struggle bore first of all the praiseworthy fruit that nothing came of the foolish coercive regulation which the government had established in 1843, that after five years only the “revised” and the “reviewed” Explanation should be found in use in Norway. Secondly, it brought fully and clearly to light that it was not the intention of the Norwegian church people to allow the children’s catechism to be corrupted by the theologians. The standpoint of the laity had come forward in a manner that plainly made it understood that there would be neither peace nor cooperation in the Norwegian Church unless the Grundtvigianizing tendency among the theologians were pressed back.
+
+With this controversy, then, we draw nearer across the way toward 1850. The forces which were to contribute to better understanding between the laity and the clergy had already been matured in the Lord’s school, and they stepped forth with a determination and a youthful freshness that promised great things. At the same time the people came forward with demands which found support among several liberal-minded theologians, and a vigorous and powerful ecclesiastical development seemed to be at hand.

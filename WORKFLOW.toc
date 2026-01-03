@@ -14,6 +14,9 @@
 \contentsline {section}{\numberline {2}Second Section}{51}{section.2}%
 \contentsline {subsection}{\numberline {2.1}The Free Church in History}{53}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}The Church and the Ecclesiastical Communions}{62}{subsection.2.2}%
-\contentsline {section}{\numberline {3}Memories From Norway}{78}{section.3}%
-\contentsline {subsubsection}{\numberline {3.0.1}The Revival through Hauge}{79}{subsubsection.3.0.1}%
-\contentsline {subsubsection}{\numberline {3.0.2}Hersleb and Stenersen}{82}{subsubsection.3.0.2}%
+\contentsline {subsection}{\numberline {2.3}Memories From Norway}{78}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}The Revival through Hauge}{79}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Hersleb and Stenersen}{82}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}The Awakening Missionary Spirit}{87}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}The Struggle for Religious Freedom}{88}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}The Textbook Controversy}{92}{subsubsection.2.3.5}%
