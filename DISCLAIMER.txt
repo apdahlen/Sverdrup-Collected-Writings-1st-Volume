@@ -1,5 +1,7 @@
 DISCLAIMER
 
+Many of the historical and theological texts addressed in this repository have remained inaccessible to the English-speaking world for over a century. Due to the scarcity of specialized linguistic resources and the sheer volume of untranslated material, AI-assisted methodology is currently the only viable means of recovering these voices for modern reflection. This project is a salvage operation intended to bring these "locked" sources into the light of contemporary dialogue.
+
 This repository contains experimental tools, workflows, and example outputs
 for the analysis, translation, and interpretation of historical and theological
 texts using structured methods and AI-assisted processes.
